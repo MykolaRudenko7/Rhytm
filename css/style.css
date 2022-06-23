@@ -265,7 +265,7 @@ a {
 .main__image::after {
 	position: absolute;
 	content: "";
-	background: url("/img/main/main-page/decor-decor.svg") 0 0 no-repeat;
+	background: url("..img/main/main-page/decor-decor.svg") 0 0 no-repeat;
 	width: 80px;
 	height: 80px;
 	right: 36.3%;
