@@ -6,7 +6,7 @@ if (reviewsSwiper) {
 
 	const swiper = new Swiper('.swiper-reviews', {
 		// Optional parameters
-		autoHight: true,
+		autoHeight: true,
 		loop: true,
 
 		// If we need pagination
