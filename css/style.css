@@ -656,6 +656,7 @@ a {
 	justify-items: center;
 	text-align: center;
 	padding: 40px;
+	align-self: start;
 }
 
 .item-why__icon {
