@@ -152,6 +152,7 @@ a {
 		overflow: hidden;
 	}
 }
+
 /*-------------------------------------------------------------- */
 .main {
 	padding-bottom: 80px;
@@ -1033,11 +1034,12 @@ a {
 }
 
 .contacts-footer__link_mail {
-	background: url('img/footer/logo/e-mail.svg') left no-repeat;
+	width: ;
+	background: url("../img/footer/logo/e-mail.svg") left no-repeat;
 }
 
 .contacts-footer__link_location {
-	background: url('img/footer/logo/location.svg') left no-repeat;
+	background: url('../img/footer/logo/location.svg') left no-repeat;
 }
 
 .menu-footer {
